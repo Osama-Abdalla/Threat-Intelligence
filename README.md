@@ -9,3 +9,10 @@ This repository is dedicated to Threat Intelligence (TI) — collecting, analyzi
 - Automate threat enrichment using APIs (VirusTotal, AbuseIPDB, AlienVault OTX, etc.).
 - Share case studies and reports on notable threats.
 - Build repeatable workflows for SOC & Incident Response teams.
+
+| Case Name                                   | Link                                  |
+| ------------------------------------------- | ------------------------------------- |
+| **Oski** | [View Case](cases/phishing-o365.md)   |
+|        | [View Case](cases/emotet-analysis.md) |
+|        | [View Case](cases/apt29.md)           |
+|     | [View Case](cases/lockbit.md)         |
