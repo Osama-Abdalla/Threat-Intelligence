@@ -12,7 +12,7 @@ This repository is dedicated to Threat Intelligence (TI) — collecting, analyzi
 
 | Case Name                                   | Link                                  |
 | ------------------------------------------- | ------------------------------------- |
-| **Oski** | [View Case](cases/phishing-o365.md)   |
+| **Oski** | [View Case](https://github.com/Osama-Abdalla/Threat-Intelligence/tree/main/Case1-Oski)   |
 |        | [View Case](cases/emotet-analysis.md) |
 |        | [View Case](cases/apt29.md)           |
 |     | [View Case](cases/lockbit.md)         |
